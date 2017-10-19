@@ -1,0 +1,38 @@
+/*
+Theme Name: El centro de marketing
+Theme URI: http://elcentrodemarketing.com
+Author: El Centro Team
+Author URI: https://elcentrodemarketing.com
+Description: Tema para el Centro de Marketing
+*/  
+._1218p{ overflow: hidden; }
+.tituldeblogtab{ color: #fff; }
+.compartir{width: 23% !important; min-width: 161px !important;}
+.comentarios{ background-image:none !important; font-family: Roboto, sans-serif;}
+#commentform textarea, #commentform input{ color: #312c2c; padding: 10px; }
+#commentform input[type="text"], #commentform input[type="email"]{ background-color: #5e615e; border: 0;color: #aba;}
+.comentarios{margin-top: 30px !important}
+.comment-notes {display: none;}
+.comment-form-comment label{ text-transform: uppercase; color: #1184d5; }
+#commentform textarea{ width: 100%; }
+.comment-form-author, .comment-form-email{ width: 50%; float: left;}
+.comment-form-url{display: none;}
+.comentarios input[type="button"]{ float: right; background: #000; border: 0; color: #fff !important; margin-top: 20px; }
+.comment-form-author label, .comment-form-email label{text-align: right;}
+.comment-form-author input, .comment-form-email input{ float: right; }
+.comments-title, .comment-author span{display: none;}
+.comment-list{ margin-bottom: 35px; color: #aba; }
+.comment-list li{ display: block; position: relative; float: left; width: 100%; margin-bottom: 30px;}
+.comment-author, .comment-metadata, .reply{ float: left; }
+.comment-metadata{ float: right; margin-top: 10px; font-size: 11px}
+.comment-metadata a{    text-decoration: none; color: #636563;}
+.comment-content{    float: left; display: block; position: relative; width: 100%; margin: 15px 0 0 0;}
+.comment-author b{color: #1184d5 !important; }
+.comment-awaiting-moderation{    display: block; position: relative; float: left; width: 100%; font-size: 11px; margin: 0; color: #a52b2b;}
+.reply a{color: #024a84; text-decoration: none;}
+ol .children { float: right; width: 100%; margin-top: 20px;}
+.views { padding-left: 8% !important; }
+@media (max-width: 767px){
+	.contentbloge { margin-left: 0 !important; }
+
+}

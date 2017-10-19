@@ -1,0 +1,598 @@
+.all {
+  height: auto;
+  background-image: url('../images/fondo.png');
+  background-position: 50% 50%;
+  background-size: auto;
+  background-repeat: repeat;
+  font-family: Roboto, sans-serif;
+  color: #fff;
+}
+
+.all.blog {
+  background-image: url('../images/fondo.png');
+  background-position: 50% 50%;
+  background-size: auto;
+  background-repeat: repeat;
+}
+
+._1218p {
+  position: relative;
+  display: block;
+  width: 100%;
+  max-width: 100%;
+  margin-right: auto;
+  margin-left: auto;
+  float: none;
+}
+
+.contenticons {
+  position: relative;
+  width: 100%;
+  float: left;
+}
+
+.contenticons.content-home {
+  margin-top: 129px;
+}
+
+.contenticons.content-home.content-inter {
+  min-height: 0px;
+  margin-top: 60px;
+}
+
+.contenticons.content-home.content-inter.contentblog {
+  margin-top: 46px;
+}
+
+.fb {
+  width: 18px;
+  height: 17px;
+  margin-top: 7px;
+  margin-right: 7px;
+  background-image: url('../images/instafbredes.png');
+  background-position: 0px 0px;
+  background-size: auto;
+  background-repeat: no-repeat;
+}
+
+.contentcenter {
+  position: static;
+  display: block;
+  width: 100%;
+  max-width: 1218px;
+  margin-right: auto;
+  margin-bottom: 90px;
+  margin-left: auto;
+  float: none;
+}
+
+.ctahazunacita {
+  display: block;
+  width: 284px;
+  margin: 0px auto 37px;
+  padding-top: 19px;
+  padding-bottom: 12px;
+  clear: both;
+  border: 3px solid #1184d5;
+  border-radius: 23px;
+  background-color: transparent;
+  font-size: 18px;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.ctahazunacita:hover {
+  background-color: #1184d5;
+}
+
+.ctahazunacita.hazunac {
+  width: 77%;
+  max-width: 186px;
+  margin-top: 4px;
+  padding-top: 8px;
+  padding-bottom: 6px;
+  clear: both;
+  font-size: 12px;
+}
+
+.tituls {
+  width: 100%;
+  margin-top: 95px;
+  margin-bottom: 19px;
+  padding-right: 5%;
+  padding-left: 5%;
+  color: #a8292f;
+  font-size: 19px;
+  line-height: 24px;
+  font-weight: 500;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.imgblog {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+
+.contenttitul {
+  width: 40.4%;
+  margin-right: 11.4%;
+  float: right;
+  border: 12px solid #ff0036;
+}
+
+.tituldeblog {
+  margin-top: 8px;
+  margin-bottom: 13px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 7%;
+  font-size: 28px;
+  line-height: 36px;
+}
+
+.contentblog {
+  position: relative;
+  width: 100%;
+  margin-top: 92px;
+  float: left;
+}
+
+.contentbloge {
+  position: relative;
+  width: 55.3%;
+  margin-left: 8%;
+  float: left;
+}
+
+.sidebarcat {
+  width: 23%;
+  padding-left: 2.5%;
+  float: left;
+}
+
+.unblogarchive {
+  width: 100%;
+  margin-top: 0px;
+  margin-right: 5.8%;
+  margin-bottom: 75px;
+  float: right;
+}
+
+.imgdeblogarch {
+  width: 37.5%;
+  margin-top: 37px;
+  margin-left: 3.2%;
+  float: right;
+}
+
+.contentdeunblog {
+  width: 38%;
+  float: right;
+}
+
+.datosed {
+  width: 100%;
+  float: left;
+}
+
+.datosed.datosinter {
+  width: 53%;
+  max-width: 339px;
+  min-width: 339px;
+  margin-top: 20px;
+  float: right;
+}
+
+.views {
+  padding-left: 6%;
+  float: right;
+  background-image: url('../images/ojito.png');
+  background-position: 0px 50%;
+  background-size: auto;
+  background-repeat: no-repeat;
+  font-size: 12px;
+  font-weight: 300;
+}
+
+.views.corazon {
+  margin-right: 3%;
+  background-image: url('../images/corazon.png');
+  background-position: 0px 50%;
+  background-size: auto;
+  background-repeat: no-repeat;
+}
+
+.views.fech {
+  margin-right: 6%;
+  background-image: none;
+}
+
+.tituldelblogs {
+  margin-top: 16px;
+  float: right;
+  font-size: 30px;
+  line-height: 24px;
+  font-weight: 400;
+  text-align: right;
+}
+
+.extracblog {
+  margin-top: 6px;
+  float: right;
+  color: #b8b8b8;
+  font-size: 13px;
+  line-height: 14px;
+  font-weight: 300;
+  text-align: right;
+}
+
+.leermasbot {
+  margin-top: 22px;
+  padding: 6px 22px;
+  float: right;
+  border: 3px solid #ff0036;
+  border-radius: 5px;
+  background-color: transparent;
+}
+
+.cargarmasnotas {
+  width: 36.5%;
+  margin-top: -15px;
+  margin-right: 6.5%;
+  padding-top: 15px;
+  padding-bottom: 16px;
+  float: right;
+  border: 1px solid #707070;
+  border-radius: 10px;
+  background-color: transparent;
+  font-weight: 300;
+  text-align: center;
+}
+
+.categorias {
+  position: relative;
+  width: 100%;
+  margin-top: 0px;
+  margin-bottom: 1px;
+  float: left;
+  font-size: 19px;
+  font-weight: 300;
+  text-transform: uppercase;
+}
+
+.unactext {
+  position: relative;
+  width: 82%;
+  margin-bottom: 3px;
+  padding-left: 1%;
+  float: left;
+  color: #b8b8b8;
+  font-size: 12px;
+  font-weight: 400;
+  text-decoration: none;
+  text-transform: none;
+}
+
+.cant {
+  position: relative;
+  float: right;
+}
+
+.tabsrecientes {
+  width: 100%;
+  margin-top: 26px;
+  float: left;
+}
+
+.unaficha {
+  padding-top: 6px;
+  padding-bottom: 6px;
+  float: none;
+  background-color: #ff0036;
+}
+
+.unaficha.w--current {
+  padding-top: 6px;
+  padding-bottom: 6px;
+  float: left;
+  background-color: #850d26;
+}
+
+.textrecientes {
+  color: #fff;
+  font-weight: 300;
+}
+
+.tabscont {
+  margin-top: 18px;
+}
+
+.unblogdetab {
+  position: relative;
+  width: 100%;
+  margin-bottom: 16px;
+  float: left;
+}
+
+.imgdeblogtab {
+  position: relative;
+  width: 20%;
+  max-width: 100%;
+  float: left;
+}
+
+.tituldeblogtab {
+  position: relative;
+  width: 100%;
+  margin-top: 0px;
+  margin-bottom: 3px;
+  margin-left: 0%;
+  float: left;
+  font-size: 14px;
+  line-height: 16px;
+  font-weight: 400;
+}
+
+.fechatab {
+  position: relative;
+  float: left;
+  color: #b8b8b8;
+  font-size: 11px;
+}
+
+.texttabs {
+  position: relative;
+  width: 76%;
+  margin-left: 4%;
+  float: left;
+}
+
+.ctacontent {
+  position: relative;
+  width: 97%;
+  margin-top: 9px;
+  padding-bottom: 50px;
+  float: left;
+  background-color: #000;
+}
+
+.fondodesidebar {
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  width: 37%;
+  background-color: #2b2b2b;
+}
+
+.imginterblog {
+  float: left;
+}
+
+.fechasyredesint {
+  width: 95%;
+  margin-top: 10px;
+  float: left;
+}
+
+.compartir {
+  position: relative;
+  width: 44%;
+  max-width: 279px;
+  min-width: 279px;
+  margin-top: 4px;
+  margin-left: 1%;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  float: left;
+  border: 1px solid #5c5c5c;
+  color: #797878;
+  font-size: 13px;
+}
+
+.compartirtext {
+  position: relative;
+  margin-top: 9px;
+  margin-right: 11%;
+  margin-left: 8%;
+  float: left;
+}
+
+.comredes {
+  position: relative;
+  width: 26px;
+  height: 26px;
+  margin-top: 5px;
+  margin-left: 0%;
+  float: left;
+  background-image: url('../images/redes-twitter.png');
+  background-position: 0px 50%;
+  background-size: auto;
+  background-repeat: no-repeat;
+}
+
+.comredes.fb {
+  margin-right: 0px;
+  background-image: url('../images/redes-fb.png');
+  background-size: auto;
+}
+
+.comredes.linkedin {
+  background-image: url('../images/redes-linkedin.png');
+  background-size: auto;
+}
+
+.comredes.email {
+  background-image: url('../images/redes-email.png');
+  background-size: auto;
+}
+
+.linea {
+  position: relative;
+  width: 1px;
+  height: 37px;
+  margin-right: 3.2%;
+  margin-left: 3.2%;
+  float: left;
+  background-color: #5c5c5c;
+}
+
+.titulointerblog {
+  position: relative;
+  margin-top: 100px;
+  float: left;
+  font-size: 24px;
+  line-height: 26px;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.titulointerblog.interblogtit {
+  width: 100%;
+  margin-top: 39px;
+}
+
+.textdelblog {
+  position: relative;
+  width: 100%;
+  margin-top: 11px;
+  float: left;
+  color: #d0d0d0;
+  font-size: 12px;
+  line-height: 17px;
+  text-align: justify;
+}
+
+.comentarios {
+  position: relative;
+  width: 100%;
+  min-height: 348px;
+  margin-top: 75px;
+  float: left;
+  background-image: url('../images/comentarios.png');
+  background-position: 50% 0px;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+.aqui_las_notas{
+  display: block;
+  position: relative;
+  float: left;
+  width: 100%;
+}
+
+@media (max-width: 991px) {
+  .contentbloge.inteblogcont {
+    width: 57.3%;
+    margin-left: 5%;
+  }
+  .sidebarcat {
+    width: 32%;
+  }
+  .contentdeunblog {
+    width: 54%;
+    padding-left: 2%;
+  }
+  .tituldelblogs {
+    font-size: 27px;
+  }
+  .unaficha {
+    padding-right: 10%;
+    padding-left: 10%;
+  }
+  .unaficha.w--current {
+    padding-right: 10%;
+    padding-left: 10%;
+  }
+}
+
+@media (max-width: 767px) {
+  .contenticons.content-home {
+    margin-top: 89px;
+  }
+  .contenttitul {
+    width: 79%;
+    max-width: 381px;
+  }
+  .contentblog {
+    margin-top: 30px;
+  }
+  .contentbloge {
+    width: 100%;
+  }
+  .contentbloge.inteblogcont {
+    width: 90%;
+  }
+  .sidebarcat {
+    width: 90%;
+    max-width: 432px;
+    margin-top: 20px;
+    margin-right: 5%;
+    margin-left: 5%;
+    float: right;
+  }
+  .unblogarchive {
+    margin-right: 2.8%;
+    margin-bottom: 35px;
+  }
+  .imgdeblogarch {
+    width: 90%;
+    max-width: 432px;
+    margin-top: 0px;
+    margin-right: 2%;
+  }
+  .contentdeunblog {
+    width: 90%;
+    padding-right: 2%;
+  }
+  .tituldelblogs {
+    width: 100%;
+    font-size: 21px;
+  }
+  .extracblog {
+    width: 100%;
+    max-width: 412px;
+  }
+  .leermasbot {
+    clear: both;
+  }
+  .cargarmasnotas {
+    width: 36%;
+    max-width: 185px;
+    min-width: 185px;
+  }
+  .unactext {
+    width: 51%;
+    padding-left: 0%;
+  }
+  .fechasyredesint {
+    position: relative;
+    float: left;
+  }
+  .titulointerblog {
+    position: relative;
+    float: left;
+  }
+}
+
+@media (max-width: 479px) {
+  .ctahazunacita {
+    width: 89%;
+    max-width: 284px;
+  }
+  .tituldeblog {
+    padding-top: 0px;
+    padding-bottom: 0px;
+  }
+  .unaficha {
+    max-width: 200px;
+    float: left;
+  }
+  .comentarios {
+    min-height: 218px;
+    margin-top: 18px;
+  }
+}
+

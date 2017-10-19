@@ -1,0 +1,2257 @@
+.all {
+  height: auto;
+  background-image: url('../images/fondo.png');
+  background-position: 50% 50%;
+  background-size: auto;
+  background-repeat: repeat;
+  font-family: Roboto, sans-serif;
+  color: #fff;
+}
+.gra{
+  /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#000000+2,f20018+86 */
+background: #000000; /* Old browsers */
+background: -moz-linear-gradient(top,  #000000 2%, #f20018 86%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top,  #000000 2%,#f20018 86%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom,  #000000 2%,#f20018 86%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000000', endColorstr='#f20018',GradientType=0 ); /* IE6-9 */
+margin-right: 0 !important;
+width: 100% !important;
+}
+.corr{
+  margin-right: 5% !important;
+}
+.all.interall {
+  background-color: #353535;
+  background-image: none;
+}
+
+.center-content {
+  position: relative;
+  z-index: 1;
+  display: block;
+  max-width: 960px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.slider-home {
+  position: absolute;
+  top: 0px;
+  width: 1218px;
+  height: 586px;
+  background-color: transparent;
+}
+
+.displaynone {
+  display: none;
+}
+
+.slide-cmk {
+  opacity: 1;
+}
+
+.header {
+  position: auto;
+  width: 100%;
+  margin-left: 0px;
+  float: left;
+}
+
+._1218p {
+  position: relative;
+  display: block;
+  width: 100%;
+  max-width: 100%;
+  margin-right: auto;
+  margin-left: auto;
+  float: none;
+}
+
+._1218p.mktall {
+  background-color: #0d060a;
+}
+
+._1218p.servall {
+  display: block;
+  min-height: 1120px;
+  background-color: #f00234;
+}
+
+.imgslider {
+  opacity: 1;
+}
+
+.logocentrodemarketing {
+  position: relative;
+  z-index: 1;
+  margin-top: 53px;
+  margin-left: 24%;
+  float: left;
+  opacity: 1;
+}
+
+.botonheader {
+  position: relative;
+  z-index: auto;
+  width: 32px;
+  height: 32px;
+  margin-top: 65px;
+  margin-right: 0%;
+  float: right;
+}
+
+.linea1 {
+  position: relative;
+  width: 31px;
+  height: 2px;
+  margin-top: 4px;
+  margin-bottom: 4px;
+  float: right;
+  background-color: #fff;
+}
+
+.linea2 {
+  position: relative;
+  width: 31px;
+  height: 2px;
+  margin-top: 4px;
+  margin-bottom: 4px;
+  float: right;
+  background-color: #fff;
+}
+
+.linea3 {
+  position: relative;
+  width: 31px;
+  height: 2px;
+  margin-top: 4px;
+  margin-bottom: 4px;
+  float: right;
+  background-color: #fff;
+}
+
+.slider-home-text {
+  z-index: 1;
+  width: 537px;
+  height: 212px;
+  margin-top: 162px;
+  margin-left: 50.5%;
+  float: left;
+  border: 11px solid #ff0036;
+  background-color: transparent;
+}
+
+.textslide {
+  height: auto;
+  min-height: 212px;
+  border: 11px none transparent;
+}
+
+.textdeslidehome {
+  position: relative;
+  margin-top: 29px;
+  margin-left: 5%;
+  float: left;
+  font-family: 'Roboto Condensed', sans-serif;
+  color: #fff;
+  font-size: 32px;
+  line-height: 33px;
+  text-transform: uppercase;
+}
+
+.ctaslider {
+  position: absolute;
+  left: 0px;
+  bottom: -32px;
+  width: 380px;
+  height: 64px;
+  margin-top: 0px;
+  margin-left: 4.5%;
+  padding-left: 15%;
+  float: left;
+  background-color: #1184d5;
+  background-image: url('../images/flechitacta.png');
+  background-position: 93% 50%;
+  background-size: auto;
+  background-repeat: no-repeat;
+  font-family: Roboto, sans-serif;
+  font-size: 15px;
+  line-height: 50px;
+  font-weight: 700;
+  text-align: left;
+  text-transform: uppercase;
+}
+
+.menu {
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  z-index: 3;
+  display: block;
+  overflow: hidden;
+  width: 42px;
+  height: 100px;
+  min-height: 0px;
+  margin-right: 5%;
+  /*background-image: none;*/
+}
+
+.menuitems {
+  position: relative;
+  margin-top: 45px;
+  margin-right: 15%;
+  float: right;
+  clear: both;
+}
+
+.itemmenu {
+  position: relative;
+  display: block;
+  margin-top: 6px;
+  margin-bottom: 7px;
+  float: right;
+  clear: both;
+  font-family: Roboto, sans-serif;
+  color: #fff;
+  font-size: 29px;
+  font-weight: 500;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+.itemmenu.blogmenu {
+  display: none;
+}
+
+.contenticons {
+  position: relative;
+  width: 100%;
+  float: left;
+}
+
+.contenticons.content-home {
+  margin-top: 129px;
+}
+
+.contenticons.content-home.content-inter {
+  min-height: 0px;
+  margin-top: 60px;
+}
+
+.contenticons.content-home.content-inter.contentmkt {
+  max-height: 211px;
+  margin-top: 0px;
+  margin-bottom: 220px;
+  background-color: #ff0036;
+}
+
+.contenticons.content-home.content-inter.contserv {
+  margin-top: 0px;
+}
+
+.subtitle {
+  margin-bottom: 20px;
+  padding-left: 0px;
+  font-family: Roboto, sans-serif;
+  color: #fff;
+  font-size: 24px;
+  font-weight: 500;
+  text-align: center;
+}
+
+.subtitle.serviciostitle {
+  margin-top: 249px;
+  font-size: 20px;
+  text-transform: uppercase;
+}
+
+._3pilarescontent {
+  position: relative;
+  display: block;
+  width: 100%;
+  max-width: 515px;
+  margin-top: 3px;
+  margin-right: auto;
+  margin-left: auto;
+  float: none;
+}
+
+.unpilar {
+  width: 132px;
+  height: 127px;
+  float: left;
+  border: 12px solid #f3021e;
+  border-radius: 63px;
+  background-color: #fff;
+}
+
+.unpilar:hover {
+  border-width: 6px;
+}
+
+.unpilar.pilar2 {
+  margin-left: -6px;
+}
+
+.imgpilar {
+  position: relative;
+  display: block;
+  margin-top: 25px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.coneccion {
+  width: 72px;
+  height: 48px;
+  margin-top: 43px;
+  margin-left: -7px;
+  float: left;
+  background-image: url('../images/union.png');
+  background-position: 0px 50%;
+  background-size: auto;
+  background-repeat: no-repeat;
+}
+
+.textos {
+  width: 100%;
+  float: left;
+}
+
+.textpilares {
+  position: relative;
+  width: 132px;
+  margin-top: 20px;
+  float: left;
+  color: #fff;
+  font-size: 14px;
+  font-weight: 100;
+  text-align: center;
+}
+
+.textpilares.txt2 {
+  margin-right: 59.5px;
+  margin-left: 59.5px;
+}
+
+.marketingdecontenido {
+  position: relative;
+  width: 100%;
+  float: left;
+}
+
+.conocemarketing {
+  position: relative;
+  width: 100%;
+  margin-top: 97px;
+  float: left;
+}
+
+.line {
+  position: absolute;
+  left: -215px;
+  top: 119px;
+  z-index: 1;
+  width: 342px;
+  height: 17px;
+  margin-top: 0px;
+  background-image: url('../images/line.png');
+  background-position: 0px 50%;
+  background-size: auto;
+  background-repeat: no-repeat;
+}
+
+.ctaimg {
+  position: relative;
+  margin-left: 6.5%;
+  float: left;
+}
+
+.textcta {
+  position: relative;
+  width: 379px;
+  margin-top: 60px;
+  margin-left: -83px;
+  float: left;
+  font-size: 22px;
+  line-height: 28px;
+  font-style: italic;
+  font-weight: 700;
+  text-decoration: none;
+  text-transform: uppercase;
+  text-shadow: 3px 0 5px #000;
+}
+
+.ctabut {
+  position: relative;
+  width: 92px;
+  height: 92px;
+  margin-top: 63px;
+  margin-left: 10px;
+  float: left;
+  background-color: transparent;
+  background-image: url('../images/cta.png');
+  background-position: 0px 0px;
+  background-size: auto;
+  background-repeat: no-repeat;
+  -webkit-transform: rotate(90deg);
+  -ms-transform: rotate(90deg);
+  transform: rotate(90deg);
+  color: transparent;
+}
+
+.servicios {
+  position: relative;
+  width: 1291px;
+  height: 1303px;
+  margin-top: -111px;
+  float: right;
+  background-image: url('../images/fondoservicios.png');
+  background-position: 100% 50%;
+  background-size: auto;
+  background-repeat: no-repeat;
+}
+
+.grideservicios {
+  position: relative;
+  z-index: 1;
+  display: block;
+  max-width: 945px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.grideservicios.servgrid {
+  float: left;
+}
+
+.servicio-web {
+  position: relative;
+  width: 240px;
+  height: 561px;
+  margin-top: 28px;
+  float: left;
+}
+
+.imgservicio {
+  position: relative;
+  width: 100%;
+  float: left;
+  opacity: 1;
+}
+
+.textservice {
+  position: absolute;
+  left: 0px;
+  bottom: 9px;
+  z-index: 1;
+  margin-left: 8%;
+  float: none;
+  color: #fff;
+  font-size: 16px;
+  line-height: 20px;
+  font-weight: 400;
+  text-transform: uppercase;
+}
+
+.hoverservice {
+  position: absolute;
+  width: 0%;
+  height: 100%;
+  background-color: #024e95;
+}
+
+.hoverservice.hoverarriba {
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  width: 100%;
+  height: 0%;
+}
+
+.hoverservice.hoverarriba.hoverabajo {
+  left: 0px;
+  top: auto;
+  right: 0px;
+  bottom: 0px;
+}
+
+.hoverservice.hoverarriba.hoverright {
+  left: auto;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  width: 0%;
+  height: 100%;
+}
+
+.servicio-campanias {
+  position: relative;
+  width: 100%;
+  height: 327px;
+  margin-top: 41px;
+  float: left;
+}
+
+.documentos {
+  position: relative;
+  float: left;
+  clear: left;
+}
+
+.servicio-centro {
+  position: relative;
+  float: left;
+}
+
+.servicio-derecha {
+  width: 300px;
+  float: left;
+}
+
+.servicios-redes {
+  position: relative;
+  width: 300px;
+  height: 327px;
+  float: left;
+}
+
+.serviciorelacionespub {
+  position: relative;
+  width: 300px;
+  float: left;
+}
+
+.circulo {
+  position: absolute;
+  right: 0px;
+  bottom: 173px;
+  display: block;
+}
+
+.contenidodeinteres {
+  position: relative;
+  z-index: 1;
+  display: none;
+  width: 100%;
+  margin-top: -130px;
+  margin-bottom: 65px;
+  float: left;
+}
+
+.titulblog {
+  width: 100%;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  float: left;
+  color: #c2c2c2;
+  font-size: 23px;
+  text-align: center;
+}
+
+.textdesc {
+  position: relative;
+  width: 100%;
+  float: left;
+  color: #949494;
+  text-align: center;
+}
+
+.linvertodo {
+  display: block;
+  width: 96px;
+  margin-top: 2px;
+  margin-right: auto;
+  margin-left: auto;
+  float: none;
+  clear: both;
+  background-image: url('../images/flechitlink.png');
+  background-position: 100% 50%;
+  background-size: auto;
+  background-repeat: no-repeat;
+  color: #8f8f8f;
+  font-size: 12px;
+  text-align: center;
+  text-decoration: none;
+}
+
+.linvertodo:hover {
+  text-decoration: underline;
+}
+
+._3itemsblog {
+  display: block;
+  width: 921px;
+  margin-top: 28px;
+  margin-right: auto;
+  margin-left: auto;
+  float: none;
+}
+
+.unblog {
+  position: relative;
+  width: 247px;
+  margin-right: 30px;
+  margin-left: 30px;
+  float: left;
+}
+
+.titulbloghome {
+  position: relative;
+  display: block;
+  width: 100%;
+  margin-top: 30px;
+  padding-right: 6%;
+  padding-left: 14%;
+  float: left;
+  color: #c2c2c2;
+  font-size: 12px;
+  line-height: 16px;
+  font-weight: 500;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.desctext {
+  position: relative;
+  margin-top: 0px;
+  float: left;
+  font-family: 'Open Sans', sans-serif;
+  color: #c2c2c2;
+  font-size: 13px;
+  line-height: 15px;
+  font-weight: 300;
+  text-align: center;
+}
+
+.desctext.textelcentro {
+  margin-top: 11px;
+  margin-left: 26px;
+  padding-left: 13px;
+}
+
+.desctext.textelcentro.footerred {
+  color: #fff;
+}
+
+.imgbloghome {
+  float: left;
+  border: 12px solid #fff;
+  border-radius: 120px;
+}
+
+.footer {
+  position: relative;
+  width: 100%;
+  padding-bottom: 100px;
+  float: left;
+}
+
+.redes {
+  margin-right: 18px;
+  float: right;
+}
+
+.twtit {
+  width: 18px;
+  height: 17px;
+  margin-top: 9px;
+  margin-right: 2px;
+  float: right;
+  background-image: url('../images/instatwredes.png');
+  background-position: 0px 0px;
+  background-size: auto;
+  background-repeat: no-repeat;
+}
+
+.insta {
+  width: 20px;
+  height: 17px;
+  margin-top: 9px;
+  margin-right: 9px;
+  float: right;
+  background-image: url('../images/instaredes.png');
+  background-position: 0px 0px;
+  background-size: auto;
+  background-repeat: no-repeat;
+}
+
+.fb {
+  width: 18px;
+  height: 17px;
+  margin-top: 7px;
+  margin-right: 7px;
+  background-image: url('../images/instafbredes.png');
+  background-position: 0px 0px;
+  background-size: auto;
+  background-repeat: no-repeat;
+}
+
+.conocenosimg {
+  position: absolute;
+  top: 0px;
+  right: 0px;
+}
+
+.conocenostitle {
+  width: 91%;
+  margin-top: 10px;
+  margin-left: 9%;
+  float: left;
+  color: #ff0036;
+  font-size: 70px;
+  line-height: 99px;
+}
+
+.textconocenos {
+  width: 100%;
+  max-width: 325px;
+  margin-top: 9px;
+  margin-left: 9%;
+  float: left;
+  font-size: 20px;
+  line-height: 20px;
+  font-weight: 500;
+}
+
+.textoconocen {
+  position: relative;
+  width: 100%;
+  max-width: 877px;
+  min-height: 0px;
+  margin-top: 98px;
+  margin-left: -65px;
+  float: left;
+  background-color: #d8042c;
+}
+
+.textprincipal {
+  width: 60%;
+  margin-top: 50px;
+  margin-left: 20%;
+  float: left;
+  font-family: 'Roboto Condensed', sans-serif;
+  color: hsla(0, 0%, 100%, .7);
+  font-size: 27px;
+  line-height: 31px;
+  font-weight: 500;
+  text-transform: uppercase;
+}
+
+.contentcenter {
+  position: static;
+  display: block;
+  width: 100%;
+  max-width: 1218px;
+  margin-right: auto;
+  margin-bottom: 90px;
+  margin-left: auto;
+  float: none;
+}
+
+.contentcenter.centermktt {
+  margin-bottom: 0px;
+}
+
+.contentcenter.centermktt.contentcont {
+  margin-top: 302px;
+}
+
+.contentcenter.centerservinte {
+  margin-bottom: 50px;
+}
+
+.textconcos {
+  width: 100%;
+  max-width: 535px;
+  margin-top: 3px;
+  margin-left: 20%;
+  float: left;
+  font-size: 17px;
+  font-weight: 300;
+  text-align: justify;
+}
+
+.ctaconocenoscont {
+  position: relative;
+  bottom: -43px;
+  width: 84%;
+  max-width: 733px;
+  margin-top: 81px;
+  margin-right: -5.6%;
+  margin-left: 0%;
+  float: right;
+  background-color: #000;
+}
+
+.textdectaconocenos {
+  position: relative;
+  margin-top: 48px;
+  margin-bottom: 40px;
+  padding-right: 16%;
+  padding-left: 16%;
+  float: left;
+  color: #e94747;
+  font-size: 24px;
+  line-height: 27px;
+  font-weight: 400;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.ctahazunacita {
+  display: block;
+  width: 284px;
+  margin: 0px auto 37px;
+  padding-top: 19px;
+  padding-bottom: 12px;
+  clear: both;
+  border: 3px solid #1184d5;
+  border-radius: 23px;
+  background-color: transparent;
+  font-size: 18px;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.ctahazunacita:hover {
+  background-color: #1184d5;
+}
+
+.fotoheadercontent {
+  position: absolute;
+  display: block;
+  overflow: hidden;
+  width: 100%;
+  max-height: 535px;
+  background-color: #000;
+}
+
+.imgcentermkt {
+  position: relative;
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.solotitle {
+  position: relative;
+  right: 230px;
+  margin-top: 0px;
+  margin-left: 0%;
+  color: #fff;
+  font-size: 69px;
+  text-align: right;
+  text-transform: uppercase;
+}
+
+.eltitlemkt {
+  width: 43.6%;
+  min-height: 209px;
+  margin-top: 34px;
+  margin-left: 45.7%;
+  padding-top: 53px;
+  padding-bottom: 31px;
+  border: 6px solid #ff0036;
+  line-height: 48px;
+  text-align: right;
+}
+
+.eltitlemkt.titulservicios {
+  min-height: 159px;
+  margin-top: 0px;
+  border-color: #fff;
+  color: #fff;
+  font-size: 17px;
+}
+
+.textmarketingdecontenidos {
+  display: block;
+  width: 100%;
+  max-width: 696px;
+  margin: 32px auto 54px;
+  color: #e5e5e5;
+  font-size: 16px;
+  font-weight: 300;
+  text-align: center;
+}
+
+.losiconos {
+  display: block;
+  width: 100%;
+  height: auto;
+  max-width: 896px;
+  margin-top: 67px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.unicono {
+  position: relative;
+  z-index: 5;
+  width: 100%;
+  height: 100%;
+  max-height: 174px;
+  max-width: 174px;
+  min-height: 174px;
+  float: left;
+  border: 6px solid #fff;
+  border-radius: 116px;
+  background-color: #000;
+}
+
+.unicono:hover {
+  border-width: 6px;
+  background-color: #fff;
+}
+
+.unicono.iconsec {
+  margin-left: -0.5%;
+}
+
+.unicono.salir {
+  position: absolute;
+}
+
+.conexion {
+  position: relative;
+  z-index: 0;
+  display: block;
+  width: 100%;
+  height: 48px;
+  max-width: 72px;
+  margin-top: 64px;
+  margin-left: -0.5%;
+  float: left;
+  background-color: transparent;
+  background-image: url('../images/unioncmkt.png');
+  background-position: 50% 0px;
+  background-size: auto;
+  background-repeat: no-repeat;
+  opacity: 1;
+}
+
+.marketing {
+  display: block;
+  margin: 44px auto;
+}
+
+.marketing.marketingcont {
+  margin-top: 33px;
+}
+
+.contenicon {
+  position: relative;
+  z-index: 0;
+  display: block;
+  width: 100%;
+  max-width: 174px;
+  float: left;
+  opacity: 1;
+}
+
+.contenicon.iconsec {
+  position: relative;
+  width: 100%;
+  max-width: 174px;
+  margin-left: -0.5%;
+  float: left;
+  opacity: 1;
+}
+
+.contenicon.iconsec.icon3 {
+  opacity: 1;
+}
+
+.contenicon.iconsec.icon4 {
+  opacity: 1;
+}
+
+.textbot {
+  position: relative;
+  width: 100%;
+  margin-top: 38px;
+  float: left;
+  color: #f40431;
+  font-size: 21px;
+  text-align: center;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+.textbot:hover {
+  text-decoration: none;
+}
+
+.textbot.dosfilas {
+  margin-top: 28px;
+}
+
+.salir {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  z-index: 6;
+  display: none;
+  width: 100%;
+  height: 100%;
+  max-height: 174px;
+  max-width: 174px;
+  border: 6px solid #fff;
+  border-radius: 97px;
+}
+
+.salirbot {
+  width: 134px;
+  height: 134px;
+  margin-top: 14px;
+  margin-left: 8.5%;
+  background-image: url('../images/salir.png');
+  background-position: 50% 50%;
+  background-size: auto;
+  background-repeat: no-repeat;
+}
+
+.texticons {
+  position: absolute;
+  left: 240px;
+  top: 20px;
+  z-index: 1;
+  display: none;
+  min-width: 500px;
+  font-weight: 300;
+}
+
+.texticons.texticon2 {
+  display: none;
+}
+
+.texticons.texticons3 {
+  left: -510px;
+  top: -52px;
+  display: none;
+  max-width: 500px;
+  opacity: 1;
+}
+
+.texticons.texticon4 {
+  left: -510px;
+  top: -52px;
+  display: none;
+  max-width: 500px;
+}
+
+.conteicon1 {
+  position: relative;
+  z-index: 0;
+  width: 100%;
+  max-width: 174px;
+  margin-left: -0.5%;
+  float: left;
+}
+
+.conteicon2 {
+  position: relative;
+  z-index: 0;
+  width: 100%;
+  max-width: 174px;
+  margin-left: -0.5%;
+  float: left;
+}
+
+.conteicon3 {
+  position: relative;
+  z-index: 1;
+  width: 100%;
+  max-width: 174px;
+  margin-left: -0.5%;
+  float: left;
+}
+
+.conexion1 {
+  width: 100%;
+  height: 48px;
+  max-width: 72px;
+  margin-top: 64px;
+  margin-left: -0.5%;
+  float: left;
+  background-image: url('../images/unioncmkt.png');
+  background-position: 50% 0px;
+  background-size: auto;
+}
+
+.conexion2 {
+  position: relative;
+  width: 100%;
+  height: 48px;
+  max-width: 72px;
+  margin-top: 64px;
+  margin-left: -0.5%;
+  float: left;
+  background-image: url('../images/unioncmkt.png');
+  background-position: 50% 0px;
+  background-size: auto;
+  background-repeat: no-repeat;
+}
+
+.closemov {
+  display: none;
+  opacity: 0;
+}
+
+.titulmovl {
+  display: none;
+  opacity: 0;
+}
+
+.textserv {
+  position: relative;
+  left: -128px;
+  margin-left: 0px;
+  float: left;
+  font-size: 50px;
+}
+
+.textdeservicios {
+  width: 49%;
+  margin-top: 30px;
+  margin-right: 10.5%;
+  margin-bottom: 20px;
+  float: right;
+  font-size: 15px;
+  font-weight: 300;
+  text-align: right;
+}
+
+.contentservice {
+  position: relative;
+  display: block;
+  max-width: 942px;
+  margin: 79px auto 46px;
+}
+
+.contentservice.conteserv {
+  position: relative;
+  margin-top: 0px;
+  clear: both;
+}
+
+.circuloservice {
+  position: absolute;
+  right: -238px;
+  bottom: -86px;
+  width: 100%;
+  height: 100%;
+  max-height: 681px;
+  max-width: 681px;
+  min-height: 0px;
+  background-image: url('../images/circuloservicios.png');
+  background-position: 50% 0px;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+
+.titlubox {
+  width: 44%;
+  margin-right: 10.5%;
+  float: right;
+  border: 6px solid #fff;
+}
+
+.titlubox.servicint {
+  position: relative;
+  width: 24%;
+  margin-top: 53px;
+  margin-right: 0%;
+  margin-left: 21%;
+  float: left;
+  clear: both;
+}
+
+.titlubox.servicint.contitul {
+  width: 48%;
+  margin-top: 29px;
+  margin-bottom: 44px;
+  float: right;
+}
+
+.titulservic {
+  position: relative;
+  left: -197px;
+  width: 120%;
+  margin-top: 30px;
+  margin-bottom: 0px;
+  padding-right: 58px;
+  font-size: 36px;
+  text-align: right;
+}
+
+.titulservic.htitulse {
+  left: -124px;
+  width: 67%;
+  margin-top: 49px;
+  margin-bottom: 60px;
+  font-size: 69px;
+  text-align: left;
+}
+
+.titulservic.redesociale {
+  left: -117px;
+  width: 90%;
+}
+
+.titulservic.docimrpe {
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+.titulservic.tituldecont {
+  left: -119%;
+  width: 170%;
+  margin-top: 20px;
+  margin-bottom: 10px;
+  font-size: 39px;
+  text-transform: uppercase;
+}
+
+.backservicios {
+  position: relative;
+  margin-top: 20px;
+  margin-left: 11.5%;
+  padding-top: 12px;
+  padding-left: 45px;
+  float: left;
+  clear: both;
+  background-color: transparent;
+  background-image: url('../images/iconback.png');
+  background-position: 0px 50%;
+  background-size: auto;
+  background-repeat: no-repeat;
+}
+
+.textinterserv {
+  position: relative;
+  max-width: 503px;
+  margin-top: 37px;
+  margin-bottom: 29px;
+  margin-left: 6.5%;
+  padding-left: 6%;
+  float: left;
+  clear: both;
+  font-weight: 300;
+}
+
+.contentnex {
+  position: relative;
+  width: 42%;
+  margin-top: 0px;
+  margin-bottom: 6px;
+  margin-left: 6.5%;
+  float: left;
+  clear: both;
+  font-size: 14px;
+  line-height: 56px;
+}
+
+.tituk {
+  position: relative;
+  width: 33%;
+  margin-top: 0px;
+  float: left;
+  font-size: 18px;
+  line-height: 33px;
+  font-weight: 300;
+  text-align: right;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+.tituk.doubline {
+  width: 33%;
+  font-size: 18px;
+  line-height: 27px;
+}
+
+.tituk.docim {
+  width: 37%;
+  margin-bottom: 0px;
+}
+
+.textblog {
+  width: 61%;
+  margin-left: 6%;
+  float: left;
+  line-height: 17px;
+  font-weight: 300;
+}
+
+.ctaintercontet {
+  width: 57.3%;
+  margin-top: 30px;
+  float: left;
+  clear: both;
+  background-color: #000;
+}
+
+.titulcta {
+  display: block;
+  width: 80%;
+  margin-top: 41px;
+  margin-right: auto;
+  margin-left: auto;
+  color: #e5303d;
+  font-size: 24px;
+  line-height: 27px;
+  font-weight: 700;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.hazunacita {
+  display: block;
+  max-width: 282px;
+  margin: 42px auto 43px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  border: 3px solid #1184d5;
+  border-radius: 23px;
+  background-color: transparent;
+  font-size: 20px;
+  line-height: 19px;
+  font-weight: 500;
+  text-align: center;
+}
+
+.hazunacita:hover {
+  background-color: #1184d5;
+}
+
+.imgserv {
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  width: 46%;
+  height: 100%;
+  background-image: url('../images/imgweb.png');
+  background-position: 0px 50%;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.imgserv.imgredes {
+  width: 43%;
+  background-image: url('../images/imgredes.png');
+  background-position: 0px 50%;
+  background-size: cover;
+}
+
+.imgserv.imgcampanias {
+  background-image: url('../images/imgcampanias.png');
+  background-size: cover;
+}
+
+.imgserv.impresos {
+  background-image: url('../images/imgdocumentos.png');
+  background-size: cover;
+}
+
+.imgserv.relacionespub {
+  background-image: url('../images/relacionespub.png');
+  background-size: cover;
+}
+
+.contactimg {
+  position: absolute;
+  width: 100%;
+  height: 405px;
+  background-image: url('../images/imgcontacto.jpg');
+  background-position: 50% 0px;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.titulydatcont {
+  width: 50%;
+  float: left;
+}
+
+.contencont {
+  position: relative;
+  width: 73%;
+  margin-bottom: 20px;
+  margin-left: 27%;
+  padding-left: 8%;
+  float: left;
+  background-image: url('../images/icontel.png');
+  background-position: 0px 50%;
+  background-size: auto;
+  background-repeat: no-repeat;
+}
+.contencont a{
+  color: #fff;
+  text-decoration: none;
+}
+
+.contencont.correo {
+  background-image: url('../images/iconcorreo.png');
+  background-size: auto;
+}
+
+.formcontacto {
+  margin-top: 203px;
+  margin-bottom: 50px;
+  margin-left: 6%;
+}
+
+.uncampo {
+  width: 35.5%;
+  margin-right: 4%;
+  float: left;
+}
+
+.uncampo.uncampofull {
+  width: 74.7%;
+}
+
+.textcont {
+  margin-bottom: 4px;
+  font-weight: 300;
+}
+
+.inputcont {
+  min-height: 43px;
+  padding-top: 9px;
+  padding-bottom: 9px;
+  border: 1px solid #fff;
+  border-radius: 5px;
+  background-color: transparent;
+color: #fff;
+}
+
+.inputcont.textarea {
+  min-height: 146px;
+}
+
+.enviar {
+  width: 100%;
+  max-width: 280px;
+  margin-top: 15px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  clear: both;
+  border-radius: 20px;
+  background-color: #000;
+  font-size: 18px;
+}
+
+.enviar:hover {
+  background-color: #fff;
+  color: #f00234;
+}
+
+@media (max-width: 991px) {
+  .center-content {
+    width: 100%;
+  }
+  .slider-home {
+    width: 100%;
+  }
+  .header {
+    margin-left: 0px;
+  }
+  .slider-home-text {
+    display: block;
+    margin-top: 286px;
+    margin-right: auto;
+    margin-left: auto;
+    float: none;
+    clear: both;
+  }
+  .subtitle.serviciostitle {
+    width: 100%;
+  }
+  .servicios {
+    width: 100%;
+    height: 1103px;
+  }
+  .grideservicios {
+    width: 100%;
+  }
+  .servicio-web {
+    width: 29%;
+    height: auto;
+  }
+  .servicio-campanias {
+    width: 100%;
+    height: auto;
+  }
+  .documentos {
+    width: 100%;
+    height: auto;
+  }
+  .servicio-centro {
+    width: 38%;
+  }
+  .servicio-derecha {
+    width: 33%;
+  }
+  .servicios-redes {
+    width: 100%;
+    height: auto;
+  }
+  .serviciorelacionespub {
+    width: 100%;
+  }
+  .circulo {
+    bottom: 171px;
+    width: 58%;
+    max-width: 100%;
+  }
+  ._3itemsblog {
+    width: 100%;
+  }
+  .unblog {
+    width: 31%;
+    margin-right: 1%;
+    margin-left: 1%;
+  }
+  .textconcos {
+    width: 80%;
+  }
+  .losiconos {
+    max-width: 736px;
+  }
+  .contenicon {
+    max-width: 135px;
+  }
+  .textbot {
+    font-size: 19px;
+  }
+  .textbot.dosfilas {
+    font-size: 19px;
+  }
+  .salir {
+    display: none;
+    max-width: 174px;
+  }
+  .salirbot {
+    display: block;
+    width: 100%;
+    height: 100%;
+    margin-top: 0px;
+    margin-left: 0%;
+    background-size: 112% 104%;
+  }
+  .texticons.texticon2 {
+    left: 160px;
+    display: none;
+    min-width: 380px;
+  }
+  .texticons.texticons3 {
+    left: -400px;
+    top: -63px;
+    display: none;
+    max-width: 370px;
+    min-width: 380px;
+  }
+  .conteicon1 {
+    max-width: 135px;
+  }
+  .conteicon2 {
+    max-width: 135px;
+  }
+  .conteicon3 {
+    max-width: 135px;
+  }
+  .textdeservicios {
+    width: 79%;
+  }
+  .contentservice {
+    margin-top: 119px;
+  }
+  .circuloservice {
+    right: 0px;
+    bottom: -110px;
+    max-height: 500px;
+    max-width: 500px;
+  }
+  .titlubox.servicint {
+    margin-left: 41%;
+  }
+  .backservicios {
+    margin-left: 4%;
+  }
+  .textinterserv {
+    margin-left: 0%;
+  }
+  .contentnex {
+    width: 62%;
+    margin-bottom: 14px;
+    margin-left: 0%;
+  }
+  .tituk {
+    line-height: 19px;
+  }
+  .ctaintercontet {
+    width: 67.3%;
+  }
+  .imgserv {
+    width: 30%;
+  }
+  .titulydatcont {
+    width: 40%;
+  }
+  .titulydatcont.cuadra1 {
+    width: 60%;
+  }
+  .formcontacto {
+    margin-top: 269px;
+  }
+  .uncampo {
+    width: 45.5%;
+  }
+  .uncampo.uncampofull {
+    width: 94.7%;
+  }
+}
+
+@media (max-width: 767px) {
+  .slider-home {
+    height: 466px;
+  }
+  .logocentrodemarketing {
+    margin-top: 30px;
+    margin-left: 5%;
+  }
+  .botonheader {
+    margin-top: 30px;
+  }
+  .slider-home-text {
+    width: 447px;
+    height: 192px;
+    margin-top: 186px;
+  }
+  .textdeslidehome {
+    font-size: 25px;
+    line-height: 28px;
+  }
+  .contenticons.content-home {
+    margin-top: 89px;
+  }
+  .contenticons.content-home.content-inter.contentmkt {
+    max-height: none;
+    margin-bottom: 50px;
+    background-color: #000;
+  }
+  ._3pilarescontent {
+    max-width: 466px;
+  }
+  .unpilar {
+    width: 119px;
+    height: 122px;
+  }
+  .unpilar.pilar2 {
+    width: 119px;
+  }
+  .coneccion {
+    width: 67px;
+  }
+  .textpilares {
+    width: 127px;
+    margin-left: 4px;
+  }
+  .textpilares.txt2 {
+    margin-right: 36.5px;
+    margin-left: 36.5px;
+  }
+  .conocemarketing {
+    margin-top: 37px;
+  }
+  .line {
+    left: -55px;
+  }
+  .ctaimg {
+    margin-left: 36.5%;
+  }
+  .textcta {
+    margin-top: 3px;
+    margin-left: 2%;
+  }
+  .ctabut {
+    margin-top: 13px;
+    margin-right: 5%;
+    float: right;
+  }
+  .servicios {
+    margin-top: -211px;
+  }
+  .servicio-web {
+    width: 42.67%;
+  }
+  .servicio-centro {
+    width: 57.33%;
+  }
+  .servicio-derecha {
+    width: 100%;
+  }
+  .servicios-redes {
+    width: 50%;
+  }
+  .serviciorelacionespub {
+    width: 50%;
+  }
+  .circulo {
+    bottom: 361px;
+    width: 88%;
+  }
+  .contenidodeinteres {
+    margin-top: 160px;
+  }
+  .desctext.textelcentro {
+    margin-left: 1%;
+  }
+  .footer {
+    padding-bottom: 30px;
+  }
+  .textoconocen {
+    width: 100%;
+    margin-left: -10%;
+  }
+  .textprincipal {
+    width: 80%;
+    margin-left: 15%;
+    font-size: 27px;
+  }
+  .contentcenter.centermktt.contentcont {
+    margin-top: 195px;
+  }
+  .textconcos {
+    margin-left: 15%;
+  }
+  .ctaconocenoscont {
+    margin-top: -9px;
+  }
+  .solotitle {
+    position: absolute;
+    right: 21%;
+    font-size: 49px;
+  }
+  .eltitlemkt {
+    width: 60%;
+    margin-left: 35%;
+  }
+  .eltitlemkt.titulservicios {
+    font-size: 31px;
+    line-height: 48px;
+  }
+  .textmarketingdecontenidos {
+    margin-bottom: 4px;
+    padding-right: 1%;
+    padding-left: 1%;
+  }
+  .losiconos {
+    position: static;
+    width: 90%;
+    max-width: 432px;
+  }
+  .unicono {
+    z-index: 0;
+  }
+  .unicono.ic2 {
+    z-index: 0;
+  }
+  .conexion {
+    display: none;
+    background-image: none;
+    background-size: auto;
+    background-repeat: repeat;
+  }
+  .contenicon {
+    position: static;
+    max-width: 174px;
+    margin-right: 4%;
+    margin-left: 4%;
+  }
+  .salir {
+    display: none;
+    opacity: 0;
+  }
+  .texticons {
+    position: absolute;
+    left: 0%;
+    top: 0px;
+    display: none;
+    width: 100%;
+    min-height: 580px;
+    min-width: 0px;
+    margin-top: 50px;
+    padding-top: 135px;
+    padding-right: 5%;
+    padding-left: 9%;
+    background-color: #ff0036;
+    font-size: 20px;
+    line-height: 31px;
+  }
+  .texticons.texticon2 {
+    left: 0px;
+    z-index: 10;
+    display: none;
+  }
+  .texticons.texticons3 {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    z-index: 1;
+    display: none;
+    width: 100%;
+    max-width: none;
+    min-height: 580px;
+    min-width: 380px;
+  }
+  .texticons.texticon4 {
+    left: 0px;
+    display: none;
+    width: 100%;
+    max-width: 100%;
+    margin-top: 90px;
+  }
+  .conteicon1 {
+    position: static;
+    max-width: 174px;
+    margin-right: 4%;
+    margin-bottom: 50px;
+    margin-left: 5%;
+  }
+  .conteicon2 {
+    position: static;
+    width: 100%;
+    max-width: 174px;
+    margin-right: 4%;
+    margin-left: 4%;
+    float: left;
+  }
+  .conteicon3 {
+    position: static;
+    max-width: 174px;
+    margin-right: 4%;
+    margin-left: 4%;
+  }
+  .conexion1 {
+    display: none;
+    background-image: url('../images/unioncmkt.png');
+    background-position: 50% 0px;
+    background-size: auto;
+  }
+  .conexion2 {
+    display: none;
+  }
+  .closemov {
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    z-index: 11;
+    display: none;
+    width: 47px;
+    height: 47px;
+    margin-top: 60px;
+    margin-right: 10px;
+    background-color: transparent;
+    background-image: url('../images/closemovil.png');
+    background-position: 50% 50%;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    opacity: 1;
+    color: transparent;
+  }
+  .titulmovl {
+    position: absolute;
+    left: 10%;
+    top: 10px;
+    z-index: 13;
+    display: none;
+    width: 80%;
+    margin-top: 73px;
+    opacity: 1;
+    font-size: 32px;
+    font-weight: 400;
+    text-transform: uppercase;
+  }
+  .textserv {
+    font-size: 79px;
+  }
+  .titulservic {
+    left: -176px;
+  }
+  .titulservic.htitulse {
+    margin-top: 25px;
+    margin-bottom: 25px;
+    font-size: 51px;
+  }
+  .imgw {
+    width: 100%;
+  }
+  .textinterserv {
+    max-width: 63%;
+    padding-left: 2%;
+  }
+  .contentnex {
+    margin-left: 2%;
+  }
+  .tituk {
+    font-size: 15px;
+  }
+  .titulcta {
+    width: 84%;
+  }
+  .imgserv {
+    width: 38%;
+  }
+  .contactimg {
+    height: 275px;
+  }
+  .titulydatcont {
+    width: 100%;
+  }
+  .titulydatcont.cuadra1 {
+    width: 100%;
+  }
+  .formcontacto {
+    margin-top: 27px;
+  }
+}
+
+@media (max-width: 479px) {
+  .center-content {
+    overflow: hidden;
+  }
+  .imgslider {
+    width: 100%;
+  }
+  .logocentrodemarketing {
+    width: 68%;
+    max-width: 240px;
+  }
+  .slider-home-text {
+    width: 100%;
+    margin-top: 156px;
+  }
+  .textdeslidehome {
+    margin-top: 18px;
+    font-size: 20px;
+    line-height: 21px;
+  }
+  .ctaslider {
+    width: 85%;
+    max-width: none;
+    padding-top: 22px;
+    padding-left: 1%;
+    font-size: 15px;
+    line-height: 21px;
+    text-align: center;
+  }
+  .menu {
+    width: 42px;
+    height: 100px;
+  }
+  .menuitems {
+    margin-right: 2%;
+  }
+  .itemmenu {
+    font-size: 21px;
+    line-height: 14px;
+    margin-bottom: 20px;
+  }
+  ._3pilarescontent {
+    width: 97%;
+    max-width: 446px;
+    margin-left: 3%;
+  }
+  .unpilar {
+    width: 25%;
+    margin-left: 5%;
+  }
+  .unpilar.pilar2 {
+    width: 25%;
+    height: 122px;
+  }
+  .coneccion {
+    width: 11%;
+  }
+  .textpilares {
+    width: 27%;
+    margin-left: 1%;
+  }
+  .textpilares.txt2 {
+    margin-right: 8.2%;
+    margin-left: 8.2%;
+  }
+  .line {
+    left: 0px;
+    top: 19px;
+    right: auto;
+    width: 38%;
+    background-position: 100% 50%;
+  }
+  .ctaimg {
+    width: 40%;
+    min-width: 140px;
+    margin-right: 3%;
+    margin-left: 8%;
+    float: left;
+  }
+  .textcta {
+    width: 98%;
+    max-width: 349px;
+    margin-top: 16px;
+    font-size: 17px;
+    line-height: 19px;
+    text-align: left;
+  }
+  .ctabut {
+    margin-top: -17px;
+  }
+  .servicios {
+    height: auto;
+  }
+  .servicio-web {
+    width: 42.8%;
+  }
+  .servicio-centro {
+    width: 57.2%;
+  }
+  .contenidodeinteres {
+    margin-top: 30px;
+  }
+  .titulblog {
+    font-size: 22px;
+    line-height: 25px;
+  }
+  .unblog {
+    width: 48%;
+  }
+  .unblog.ult {
+    display: none;
+  }
+  .desctext.textelcentro {
+    width: 100%;
+    margin-bottom: 10px;
+    text-align: center;
+  }
+  .desctext.textelcentro.footerred {
+    margin-left: 0%;
+    color: #fff;
+  }
+  .redes {
+    display: block;
+    width: 76px;
+    margin-right: auto;
+    margin-left: auto;
+    float: none;
+    clear: both;
+  }
+  .conocenostitle {
+    margin-left: 5%;
+    font-size: 40px;
+    line-height: 64px;
+  }
+  .textconocenos {
+    width: 89%;
+    margin-left: 5%;
+  }
+  .textoconocen {
+    margin-top: 18px;
+  }
+  .textprincipal {
+    margin-top: 30px;
+    font-size: 22px;
+    line-height: 26px;
+  }
+  .contentcenter.centermktt.contentcont {
+    margin-top: 109px;
+  }
+  .textdectaconocenos {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding-right: 5%;
+    padding-left: 5%;
+    font-size: 20px;
+  }
+  .ctahazunacita {
+    width: 89%;
+    max-width: 284px;
+  }
+  .solotitle {
+    right: 18%;
+    font-size: 31px;
+    line-height: 32px;
+  }
+  .eltitlemkt {
+    min-height: 118px;
+    margin-top: -16px;
+    padding-top: 23px;
+    padding-bottom: 23px;
+    font-size: 39px;
+  }
+  .eltitlemkt.titulservicios {
+    display: block;
+    font-size: 13px;
+  }
+  .textmarketingdecontenidos {
+    padding-right: 2%;
+    padding-left: 2%;
+  }
+  .losiconos {
+    width: 100%;
+    max-width: 428px;
+  }
+  .contenicon {
+    max-width: 40%;
+    margin-right: 5%;
+    margin-left: 6%;
+  }
+  .textbot {
+    font-size: 18px;
+  }
+  .textbot.dosfilas {
+    font-size: 18px;
+  }
+  .texticons {
+    display: none;
+    font-size: 16px;
+    line-height: 25px;
+  }
+  .texticons.texticon2 {
+    display: none;
+    min-width: 100%;
+    font-size: 16px;
+    line-height: 25px;
+  }
+  .texticons.texticons3 {
+    display: none;
+    min-height: 540px;
+    min-width: 100%;
+    margin-top: 56px;
+    padding-top: 135px;
+    padding-right: 4%;
+    padding-left: 4%;
+    font-size: 16px;
+    line-height: 25px;
+    text-align: justify;
+  }
+  .texticons.texticon4 {
+    display: none;
+    font-size: 16px;
+    line-height: 25px;
+  }
+  .conteicon1 {
+    max-width: 40%;
+    margin-right: 4%;
+  }
+  .conteicon2 {
+    max-width: 40%;
+    margin-right: 6%;
+    margin-left: 6%;
+  }
+  .conteicon3 {
+    max-width: 40%;
+    margin-right: 4%;
+    margin-left: 4%;
+  }
+  .closemov {
+    display: none;
+  }
+  .titulmovl {
+    left: 5%;
+    display: none;
+    font-size: 28px;
+    line-height: 27px;
+  }
+  .textserv {
+    font-size: 13px;
+    line-height: 50px;
+    text-align: right;
+  }
+  .titlubox {
+    width: 64%;
+  }
+  .titlubox.servicint {
+    z-index: 1;
+    width: 64%;
+    margin-top: 23px;
+    margin-left: 27%;
+  }
+  .titlubox.servicint.contitul {
+    margin-top: 44px;
+    margin-right: 2%;
+  }
+  .titlubox.titulserv {
+    margin-right: 10.5%;
+  }
+  .titulservic {
+    left: -59px;
+    width: 120%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 24px;
+    line-height: 24px;
+    text-align: right;
+  }
+  .titulservic.htitulse {
+    left: -47px;
+    font-size: 38px;
+  }
+  .titulservic.tituldecont {
+    left: -99%;
+    width: 186%;
+    font-size: 22px;
+    line-height: 26px;
+  }
+  .textinterserv {
+    z-index: 1;
+    width: 100%;
+    max-width: 310px;
+    margin-top: 26px;
+    padding-right: 5%;
+    padding-left: 5%;
+    background-color: transparent;
+    font-weight: 300;
+    text-align: left;
+    text-shadow: 0 2px 7px #000;
+  }
+  .contentnex {
+    z-index: 1;
+    width: 292px;
+    max-width: 92%;
+    font-weight: 700;
+  }
+  .tituk {
+    text-shadow: 0 2px 7px #000;
+  }
+  .textblog {
+    font-weight: 300;
+    text-shadow: 0 2px 7px #000;
+  }
+  .ctaintercontet {
+    position: relative;
+    z-index: 1;
+    width: 100%;
+  }
+  .titulcta {
+    font-size: 20px;
+    line-height: 20px;
+  }
+  .imgserv {
+    background-position: 0px 50%;
+    opacity: 1;
+  }
+  .contactimg {
+    height: 185px;
+  }
+  .contencont {
+    margin-left: 10%;
+  }
+  .uncampo {
+    width: 94.7%;
+  }
+}
+
